@@ -79,7 +79,11 @@ with open("res/xml/wallpapers.xml", "w+") as f:
                 strings[f"author_{author_id}"] = f"by {author}"
 
                 wp_res_id = f"{category_id}_{set_id}_{wp_id}"
-                strings[f"wallpaper_{wp_res_id}"] = f"{set_name} \u2022 {wp_name}"
+
+                wp_user_name = set_name
+                if wp_name:
+                    wp_user_name += f" · {wp_name}"
+                strings[f"wallpaper_{wp_res_id}"] = wp_user_name
 
                 f.write(f"""
 
