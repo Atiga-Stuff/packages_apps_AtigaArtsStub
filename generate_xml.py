@@ -1,25 +1,7 @@
 #!/usr/bin/env python3
 
-
-WALLPAPERS = {
-    "Paii Lineage": {
-        "author": "Paii",
-        "featured": "paii_lineage_04",
-        "wallpapers": {
-            "Lineage": {
-                "1": "01",
-                "2": "02",
-                "3": "03",
-                "4": "04",
-                "5": "05",
-                "6": "06",
-                "7": "07",
-                "8": "08",
-                "9": "09",
-            },
-        },
-    },
-}
+import sys
+import json
 
 WALLPAPERS_XML_HEADER = """<?xml version="1.0" encoding="utf-8" ?>
 <!--
@@ -68,10 +50,14 @@ STRINGS_XML_FOOTER = """
 
 strings = {}
 
+json_path = sys.argv[1] if len(sys.argv) > 1 else "wallpapers.json"
+with open(json_path, "r") as f:
+    wallpapers_data = json.load(f)
+
 with open("res/xml/wallpapers.xml", "w+") as f:
     f.write(WALLPAPERS_XML_HEADER)
 
-    for category_name, cat_info in WALLPAPERS.items():
+    for category_name, cat_info in wallpapers_data.items():
         category_id = category_name.lower().replace(" ", "_")
         strings[f"category_{category_id}"] = category_name
 
