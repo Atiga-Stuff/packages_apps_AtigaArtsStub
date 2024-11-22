@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--
+    Copyright (C) 2024 The AtigaOS Project
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+<wallpapers>
+    <category id="paii_lineage" title="@string/category_paii_lineage" featured="paii_lineage_04">
+        <static-wallpaper
+            id="paii_lineage_01"
+            src="@drawable/paii_lineage_01"
+            title="@string/wallpaper_paii_lineage_01"
+            subtitle1="@string/author_paii" />
+
+        <static-wallpaper
+            id="paii_lineage_02"
+            src="@drawable/paii_lineage_02"
+            title="@string/wallpaper_paii_lineage_02"
+            subtitle1="@string/author_paii" />
+
+        <static-wallpaper
+            id="paii_lineage_03"
+            src="@drawable/paii_lineage_03"
+            title="@string/wallpaper_paii_lineage_03"
+            subtitle1="@string/author_paii" />
+
+        <static-wallpaper
+            id="paii_lineage_04"
+            src="@drawable/paii_lineage_04"
+            title="@string/wallpaper_paii_lineage_04"
+            subtitle1="@string/author_paii" />
+
+        <static-wallpaper
+            id="paii_lineage_05"
+            src="@drawable/paii_lineage_05"
+            title="@string/wallpaper_paii_lineage_05"
+            subtitle1="@string/author_paii" />
+
+        <static-wallpaper
+            id="paii_lineage_06"
+            src="@drawable/paii_lineage_06"
+            title="@string/wallpaper_paii_lineage_06"
+            subtitle1="@string/author_paii" />
+
+        <static-wallpaper
+            id="paii_lineage_07"
+            src="@drawable/paii_lineage_07"
+            title="@string/wallpaper_paii_lineage_07"
+            subtitle1="@string/author_paii" />
+
+        <static-wallpaper
+            id="paii_lineage_08"
+            src="@drawable/paii_lineage_08"
+            title="@string/wallpaper_paii_lineage_08"
+            subtitle1="@string/author_paii" />
+
+        <static-wallpaper
+            id="paii_lineage_09"
+            src="@drawable/paii_lineage_09"
+            title="@string/wallpaper_paii_lineage_09"
+            subtitle1="@string/author_paii" />
+    </category>
+
+</wallpapers>

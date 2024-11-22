@@ -2,58 +2,20 @@
 
 
 WALLPAPERS = {
-    "Radiant Glow": {
-        "author": "Infinitum",
-        "featured": "radiant_glow_rings_1",
+    "Paii Lineage": {
+        "author": "Paii",
+        "featured": "paii_lineage_04",
         "wallpapers": {
-            "Arrow": {
-                "1": "Flame",
-                "2": "Forest",
-                "3": "Ocean",
-                "4": "Circular Forest",
-                "5": "Circular Flame",
-                "6": "Circular Ocean",
-            },
-            "Gem": {
-                "1": "Flame",
-                "2": "Forest",
-                "3": "Ocean",
-            },
-            "Hex": {
-                "1": "Forest",
-                "2": "Flame",
-                "3": "Ocean",
-                "4": "Unity Flame",
-                "5": "Unity Forest",
-                "6": "Unity Ocean",
-            },
-            "Orbit": {
-                "1": "Flame",
-                "2": "Forest",
-                "3": "Ocean",
-            },
-            "Rings": {
-                "1": "Forest",
-                "2": "Flame",
-                "3": "Ocean",
-            },
-            "Square": {
-                "1": "Ocean",
-                "2": "Flame",
-                "3": "Forest",
-            },
-            "Tilt": {
-                "1": "Flame",
-                "2": "Forest",
-                "3": "Ocean",
-            },
-            "Cross": {
-                "1": "Flame",
-                "2": "Forest",
-                "3": "Ocean",
-                "4": "Elevated Ocean",
-                "5": "Elevated Flame",
-                "6": "Elevated Forest",
+            "Lineage": {
+                "1": "01",
+                "2": "02",
+                "3": "03",
+                "4": "04",
+                "5": "05",
+                "6": "06",
+                "7": "07",
+                "8": "08",
+                "9": "09",
             },
         },
     },
@@ -61,7 +23,7 @@ WALLPAPERS = {
 
 WALLPAPERS_XML_HEADER = """<?xml version="1.0" encoding="utf-8" ?>
 <!--
-    Copyright (C) 2020 The Proton AOSP Project
+    Copyright (C) 2024 The AtigaOS Project
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
@@ -84,7 +46,7 @@ WALLPAPERS_XML_FOOTER = """
 
 STRINGS_XML_HEADER = """<?xml version="1.0" encoding="utf-8"?>
 <!--
-    Copyright (C) 2020 The Proton AOSP Project
+    Copyright (C) 2024 The Atiga Project
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
