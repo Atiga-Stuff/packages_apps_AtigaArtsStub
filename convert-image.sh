@@ -2,6 +2,11 @@
 
 set -eufo pipefail
 
+if [ ! $# -gt 0 ]; then
+    echo "USAGE: ./convert-image.sh <file>"
+    exit
+fi
+
 src="$1"
 
 echo "Resizing $src"
