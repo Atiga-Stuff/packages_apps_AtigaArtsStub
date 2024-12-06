@@ -15,7 +15,45 @@
     limitations under the License.
 -->
 <wallpapers>
-    <category id="paii_lineage" title="@string/category_paii_lineage" featured="paii_lineage_04">
+
+    <category id="paii" title="@string/category_paii" featured="paii_afterlife_02">
+
+        <static-wallpaper
+            id="paii_afterlife_01"
+            src="@drawable/paii_afterlife_01"
+            title="@string/wallpaper_paii_afterlife_01"
+            subtitle1="@string/author_paii" />
+
+        <static-wallpaper
+            id="paii_afterlife_02"
+            src="@drawable/paii_afterlife_02"
+            title="@string/wallpaper_paii_afterlife_02"
+            subtitle1="@string/author_paii" />
+
+        <static-wallpaper
+            id="paii_afterlife_03"
+            src="@drawable/paii_afterlife_03"
+            title="@string/wallpaper_paii_afterlife_03"
+            subtitle1="@string/author_paii" />
+
+        <static-wallpaper
+            id="paii_afterlife_04"
+            src="@drawable/paii_afterlife_04"
+            title="@string/wallpaper_paii_afterlife_04"
+            subtitle1="@string/author_paii" />
+
+        <static-wallpaper
+            id="paii_afterlife_05"
+            src="@drawable/paii_afterlife_05"
+            title="@string/wallpaper_paii_afterlife_05"
+            subtitle1="@string/author_paii" />
+
+        <static-wallpaper
+            id="paii_afterlife_06"
+            src="@drawable/paii_afterlife_06"
+            title="@string/wallpaper_paii_afterlife_06"
+            subtitle1="@string/author_paii" />
+
         <static-wallpaper
             id="paii_lineage_01"
             src="@drawable/paii_lineage_01"
@@ -69,6 +107,7 @@
             src="@drawable/paii_lineage_09"
             title="@string/wallpaper_paii_lineage_09"
             subtitle1="@string/author_paii" />
+
     </category>
 
 </wallpapers>

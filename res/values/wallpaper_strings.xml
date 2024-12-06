@@ -15,15 +15,21 @@
     limitations under the License.
 -->
 <resources>
-    <string name="category_paii_lineage">Lineage</string>
+    <string name="category_paii">Paii</string>
     <string name="author_paii">by Paii</string>
-    <string name="wallpaper_paii_lineage_01">Lineage 01</string>
-    <string name="wallpaper_paii_lineage_02">Lineage 02</string>
-    <string name="wallpaper_paii_lineage_03">Lineage 03</string>
-    <string name="wallpaper_paii_lineage_04">Lineage 04</string>
-    <string name="wallpaper_paii_lineage_05">Lineage 05</string>
-    <string name="wallpaper_paii_lineage_06">Lineage 06</string>
-    <string name="wallpaper_paii_lineage_07">Lineage 07</string>
-    <string name="wallpaper_paii_lineage_08">Lineage 08</string>
-    <string name="wallpaper_paii_lineage_09">Lineage 09</string>
+    <string name="wallpaper_paii_afterlife_01">Afterlife · 01</string>
+    <string name="wallpaper_paii_afterlife_02">Afterlife · 02</string>
+    <string name="wallpaper_paii_afterlife_03">Afterlife · 03</string>
+    <string name="wallpaper_paii_afterlife_04">Afterlife · 04</string>
+    <string name="wallpaper_paii_afterlife_05">Afterlife · 05</string>
+    <string name="wallpaper_paii_afterlife_06">Afterlife · 06</string>
+    <string name="wallpaper_paii_lineage_01">Lineage · 01</string>
+    <string name="wallpaper_paii_lineage_02">Lineage · 02</string>
+    <string name="wallpaper_paii_lineage_03">Lineage · 03</string>
+    <string name="wallpaper_paii_lineage_04">Lineage · 04</string>
+    <string name="wallpaper_paii_lineage_05">Lineage · 05</string>
+    <string name="wallpaper_paii_lineage_06">Lineage · 06</string>
+    <string name="wallpaper_paii_lineage_07">Lineage · 07</string>
+    <string name="wallpaper_paii_lineage_08">Lineage · 08</string>
+    <string name="wallpaper_paii_lineage_09">Lineage · 09</string>
 </resources>
