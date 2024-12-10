@@ -1,17 +1,23 @@
 {
-    "Paii": {
+    "Afterlife": {
         "author": "Paii",
-        "featured": "paii_afterlife_02",
+        "featured": "afterlife_paii_02",
         "wallpapers": {
-            "Afterlife": {
+            "Paii": {
                 "01": "01",
                 "02": "02",
                 "03": "03",
                 "04": "04",
                 "05": "05",
                 "06": "06"
-            },
-            "Lineage": {
+            }
+        }
+    },
+    "Lineage": {
+        "author": "Paii",
+        "featured": "lineage_paii_04",
+        "wallpapers": {
+            "Paii": {
                 "01": "01",
                 "02": "02",
                 "03": "03",

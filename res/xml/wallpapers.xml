@@ -16,96 +16,100 @@
 -->
 <wallpapers>
 
-    <category id="paii" title="@string/category_paii" featured="paii_afterlife_02">
+    <category id="afterlife" title="@string/category_afterlife" featured="afterlife_paii_02">
 
         <static-wallpaper
-            id="paii_afterlife_01"
-            src="@drawable/paii_afterlife_01"
-            title="@string/wallpaper_paii_afterlife_01"
+            id="afterlife_paii_01"
+            src="@drawable/afterlife_paii_01"
+            title="@string/wallpaper_afterlife_paii_01"
             subtitle1="@string/author_paii" />
 
         <static-wallpaper
-            id="paii_afterlife_02"
-            src="@drawable/paii_afterlife_02"
-            title="@string/wallpaper_paii_afterlife_02"
+            id="afterlife_paii_02"
+            src="@drawable/afterlife_paii_02"
+            title="@string/wallpaper_afterlife_paii_02"
             subtitle1="@string/author_paii" />
 
         <static-wallpaper
-            id="paii_afterlife_03"
-            src="@drawable/paii_afterlife_03"
-            title="@string/wallpaper_paii_afterlife_03"
+            id="afterlife_paii_03"
+            src="@drawable/afterlife_paii_03"
+            title="@string/wallpaper_afterlife_paii_03"
             subtitle1="@string/author_paii" />
 
         <static-wallpaper
-            id="paii_afterlife_04"
-            src="@drawable/paii_afterlife_04"
-            title="@string/wallpaper_paii_afterlife_04"
+            id="afterlife_paii_04"
+            src="@drawable/afterlife_paii_04"
+            title="@string/wallpaper_afterlife_paii_04"
             subtitle1="@string/author_paii" />
 
         <static-wallpaper
-            id="paii_afterlife_05"
-            src="@drawable/paii_afterlife_05"
-            title="@string/wallpaper_paii_afterlife_05"
+            id="afterlife_paii_05"
+            src="@drawable/afterlife_paii_05"
+            title="@string/wallpaper_afterlife_paii_05"
             subtitle1="@string/author_paii" />
 
         <static-wallpaper
-            id="paii_afterlife_06"
-            src="@drawable/paii_afterlife_06"
-            title="@string/wallpaper_paii_afterlife_06"
+            id="afterlife_paii_06"
+            src="@drawable/afterlife_paii_06"
+            title="@string/wallpaper_afterlife_paii_06"
+            subtitle1="@string/author_paii" />
+
+    </category>
+
+    <category id="lineage" title="@string/category_lineage" featured="lineage_paii_04">
+
+        <static-wallpaper
+            id="lineage_paii_01"
+            src="@drawable/lineage_paii_01"
+            title="@string/wallpaper_lineage_paii_01"
             subtitle1="@string/author_paii" />
 
         <static-wallpaper
-            id="paii_lineage_01"
-            src="@drawable/paii_lineage_01"
-            title="@string/wallpaper_paii_lineage_01"
+            id="lineage_paii_02"
+            src="@drawable/lineage_paii_02"
+            title="@string/wallpaper_lineage_paii_02"
             subtitle1="@string/author_paii" />
 
         <static-wallpaper
-            id="paii_lineage_02"
-            src="@drawable/paii_lineage_02"
-            title="@string/wallpaper_paii_lineage_02"
+            id="lineage_paii_03"
+            src="@drawable/lineage_paii_03"
+            title="@string/wallpaper_lineage_paii_03"
             subtitle1="@string/author_paii" />
 
         <static-wallpaper
-            id="paii_lineage_03"
-            src="@drawable/paii_lineage_03"
-            title="@string/wallpaper_paii_lineage_03"
+            id="lineage_paii_04"
+            src="@drawable/lineage_paii_04"
+            title="@string/wallpaper_lineage_paii_04"
             subtitle1="@string/author_paii" />
 
         <static-wallpaper
-            id="paii_lineage_04"
-            src="@drawable/paii_lineage_04"
-            title="@string/wallpaper_paii_lineage_04"
+            id="lineage_paii_05"
+            src="@drawable/lineage_paii_05"
+            title="@string/wallpaper_lineage_paii_05"
             subtitle1="@string/author_paii" />
 
         <static-wallpaper
-            id="paii_lineage_05"
-            src="@drawable/paii_lineage_05"
-            title="@string/wallpaper_paii_lineage_05"
+            id="lineage_paii_06"
+            src="@drawable/lineage_paii_06"
+            title="@string/wallpaper_lineage_paii_06"
             subtitle1="@string/author_paii" />
 
         <static-wallpaper
-            id="paii_lineage_06"
-            src="@drawable/paii_lineage_06"
-            title="@string/wallpaper_paii_lineage_06"
+            id="lineage_paii_07"
+            src="@drawable/lineage_paii_07"
+            title="@string/wallpaper_lineage_paii_07"
             subtitle1="@string/author_paii" />
 
         <static-wallpaper
-            id="paii_lineage_07"
-            src="@drawable/paii_lineage_07"
-            title="@string/wallpaper_paii_lineage_07"
+            id="lineage_paii_08"
+            src="@drawable/lineage_paii_08"
+            title="@string/wallpaper_lineage_paii_08"
             subtitle1="@string/author_paii" />
 
         <static-wallpaper
-            id="paii_lineage_08"
-            src="@drawable/paii_lineage_08"
-            title="@string/wallpaper_paii_lineage_08"
-            subtitle1="@string/author_paii" />
-
-        <static-wallpaper
-            id="paii_lineage_09"
-            src="@drawable/paii_lineage_09"
-            title="@string/wallpaper_paii_lineage_09"
+            id="lineage_paii_09"
+            src="@drawable/lineage_paii_09"
+            title="@string/wallpaper_lineage_paii_09"
             subtitle1="@string/author_paii" />
 
     </category>
