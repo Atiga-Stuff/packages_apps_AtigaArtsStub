@@ -54,6 +54,24 @@
             title="@string/wallpaper_afterlife_paii_06"
             subtitle1="@string/author_paii" />
 
+        <static-wallpaper
+            id="afterlife_paii_07"
+            src="@drawable/afterlife_paii_07"
+            title="@string/wallpaper_afterlife_paii_07"
+            subtitle1="@string/author_paii" />
+
+        <static-wallpaper
+            id="afterlife_paii_08"
+            src="@drawable/afterlife_paii_08"
+            title="@string/wallpaper_afterlife_paii_08"
+            subtitle1="@string/author_paii" />
+
+        <static-wallpaper
+            id="afterlife_paii_09"
+            src="@drawable/afterlife_paii_09"
+            title="@string/wallpaper_afterlife_paii_09"
+            subtitle1="@string/author_paii" />
+
     </category>
 
     <category id="lineage" title="@string/category_lineage" featured="lineage_paii_04">
@@ -110,6 +128,36 @@
             id="lineage_paii_09"
             src="@drawable/lineage_paii_09"
             title="@string/wallpaper_lineage_paii_09"
+            subtitle1="@string/author_paii" />
+
+        <static-wallpaper
+            id="lineage_paii_10"
+            src="@drawable/lineage_paii_10"
+            title="@string/wallpaper_lineage_paii_10"
+            subtitle1="@string/author_paii" />
+
+        <static-wallpaper
+            id="lineage_paii_11"
+            src="@drawable/lineage_paii_11"
+            title="@string/wallpaper_lineage_paii_11"
+            subtitle1="@string/author_paii" />
+
+        <static-wallpaper
+            id="lineage_paii_12"
+            src="@drawable/lineage_paii_12"
+            title="@string/wallpaper_lineage_paii_12"
+            subtitle1="@string/author_paii" />
+
+        <static-wallpaper
+            id="lineage_paii_13"
+            src="@drawable/lineage_paii_13"
+            title="@string/wallpaper_lineage_paii_13"
+            subtitle1="@string/author_paii" />
+
+        <static-wallpaper
+            id="lineage_paii_14"
+            src="@drawable/lineage_paii_14"
+            title="@string/wallpaper_lineage_paii_14"
             subtitle1="@string/author_paii" />
 
     </category>
