@@ -74,90 +74,120 @@
 
     </category>
 
-    <category id="lineage" title="@string/category_lineage" featured="lineage_paii_04">
+    <category id="lineage" title="@string/category_lineage" featured="lineage_abstract_02">
 
         <static-wallpaper
-            id="lineage_paii_01"
-            src="@drawable/lineage_paii_01"
-            title="@string/wallpaper_lineage_paii_01"
+            id="lineage_abstract_01"
+            src="@drawable/lineage_abstract_01"
+            title="@string/wallpaper_lineage_abstract_01"
             subtitle1="@string/author_paii" />
 
         <static-wallpaper
-            id="lineage_paii_02"
-            src="@drawable/lineage_paii_02"
-            title="@string/wallpaper_lineage_paii_02"
+            id="lineage_abstract_02"
+            src="@drawable/lineage_abstract_02"
+            title="@string/wallpaper_lineage_abstract_02"
             subtitle1="@string/author_paii" />
 
         <static-wallpaper
-            id="lineage_paii_03"
-            src="@drawable/lineage_paii_03"
-            title="@string/wallpaper_lineage_paii_03"
+            id="lineage_abstract_03"
+            src="@drawable/lineage_abstract_03"
+            title="@string/wallpaper_lineage_abstract_03"
             subtitle1="@string/author_paii" />
 
         <static-wallpaper
-            id="lineage_paii_04"
-            src="@drawable/lineage_paii_04"
-            title="@string/wallpaper_lineage_paii_04"
+            id="lineage_abstract_04"
+            src="@drawable/lineage_abstract_04"
+            title="@string/wallpaper_lineage_abstract_04"
             subtitle1="@string/author_paii" />
 
         <static-wallpaper
-            id="lineage_paii_05"
-            src="@drawable/lineage_paii_05"
-            title="@string/wallpaper_lineage_paii_05"
+            id="lineage_abstract_05"
+            src="@drawable/lineage_abstract_05"
+            title="@string/wallpaper_lineage_abstract_05"
             subtitle1="@string/author_paii" />
 
         <static-wallpaper
-            id="lineage_paii_06"
-            src="@drawable/lineage_paii_06"
-            title="@string/wallpaper_lineage_paii_06"
+            id="lineage_abstract_06"
+            src="@drawable/lineage_abstract_06"
+            title="@string/wallpaper_lineage_abstract_06"
             subtitle1="@string/author_paii" />
 
         <static-wallpaper
-            id="lineage_paii_07"
-            src="@drawable/lineage_paii_07"
-            title="@string/wallpaper_lineage_paii_07"
+            id="lineage_anime_01"
+            src="@drawable/lineage_anime_01"
+            title="@string/wallpaper_lineage_anime_01"
             subtitle1="@string/author_paii" />
 
         <static-wallpaper
-            id="lineage_paii_08"
-            src="@drawable/lineage_paii_08"
-            title="@string/wallpaper_lineage_paii_08"
+            id="lineage_anime_02"
+            src="@drawable/lineage_anime_02"
+            title="@string/wallpaper_lineage_anime_02"
             subtitle1="@string/author_paii" />
 
         <static-wallpaper
-            id="lineage_paii_09"
-            src="@drawable/lineage_paii_09"
-            title="@string/wallpaper_lineage_paii_09"
+            id="lineage_anime_03"
+            src="@drawable/lineage_anime_03"
+            title="@string/wallpaper_lineage_anime_03"
             subtitle1="@string/author_paii" />
 
         <static-wallpaper
-            id="lineage_paii_10"
-            src="@drawable/lineage_paii_10"
-            title="@string/wallpaper_lineage_paii_10"
+            id="lineage_anime_04"
+            src="@drawable/lineage_anime_04"
+            title="@string/wallpaper_lineage_anime_04"
             subtitle1="@string/author_paii" />
 
         <static-wallpaper
-            id="lineage_paii_11"
-            src="@drawable/lineage_paii_11"
-            title="@string/wallpaper_lineage_paii_11"
+            id="lineage_anime_05"
+            src="@drawable/lineage_anime_05"
+            title="@string/wallpaper_lineage_anime_05"
             subtitle1="@string/author_paii" />
 
         <static-wallpaper
-            id="lineage_paii_12"
-            src="@drawable/lineage_paii_12"
-            title="@string/wallpaper_lineage_paii_12"
+            id="lineage_anime_06"
+            src="@drawable/lineage_anime_06"
+            title="@string/wallpaper_lineage_anime_06"
             subtitle1="@string/author_paii" />
 
         <static-wallpaper
-            id="lineage_paii_13"
-            src="@drawable/lineage_paii_13"
-            title="@string/wallpaper_lineage_paii_13"
+            id="lineage_anime_07"
+            src="@drawable/lineage_anime_07"
+            title="@string/wallpaper_lineage_anime_07"
             subtitle1="@string/author_paii" />
 
         <static-wallpaper
-            id="lineage_paii_14"
-            src="@drawable/lineage_paii_14"
-            title="@string/wallpaper_lineage_paii_14"
+            id="lineage_anime_08"
+            src="@drawable/lineage_anime_08"
+            title="@string/wallpaper_lineage_anime_08"
+            subtitle1="@string/author_paii" />
+
+        <static-wallpaper
+            id="lineage_anime_09"
+            src="@drawable/lineage_anime_09"
+            title="@string/wallpaper_lineage_anime_09"
+            subtitle1="@string/author_paii" />
+
+        <static-wallpaper
+            id="lineage_anime_10"
+            src="@drawable/lineage_anime_10"
+            title="@string/wallpaper_lineage_anime_10"
+            subtitle1="@string/author_paii" />
+
+        <static-wallpaper
+            id="lineage_cartoon_01"
+            src="@drawable/lineage_cartoon_01"
+            title="@string/wallpaper_lineage_cartoon_01"
+            subtitle1="@string/author_paii" />
+
+        <static-wallpaper
+            id="lineage_cartoon_02"
+            src="@drawable/lineage_cartoon_02"
+            title="@string/wallpaper_lineage_cartoon_02"
+            subtitle1="@string/author_paii" />
+
+        <static-wallpaper
+            id="lineage_cartoon_03"
+            src="@drawable/lineage_cartoon_03"
+            title="@string/wallpaper_lineage_cartoon_03"
             subtitle1="@string/author_paii" />
 
     </category>
