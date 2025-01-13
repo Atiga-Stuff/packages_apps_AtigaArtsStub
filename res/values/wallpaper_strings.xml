@@ -15,8 +15,12 @@
     limitations under the License.
 -->
 <resources>
-    <string name="category_afterlife">Afterlife</string>
+    <string name="category_atiga">Atiga</string>
     <string name="author_paii">by Paii</string>
+    <string name="wallpaper_atiga_paii_01">Paii · 01</string>
+    <string name="wallpaper_atiga_paii_02">Paii · 02</string>
+    <string name="wallpaper_atiga_paii_03">Paii · 03</string>
+    <string name="category_afterlife">Afterlife</string>
     <string name="wallpaper_afterlife_paii_01">Paii · 01</string>
     <string name="wallpaper_afterlife_paii_02">Paii · 02</string>
     <string name="wallpaper_afterlife_paii_03">Paii · 03</string>

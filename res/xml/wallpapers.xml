@@ -16,6 +16,28 @@
 -->
 <wallpapers>
 
+    <category id="atiga" title="@string/category_atiga" featured="atiga_paii_01">
+
+        <static-wallpaper
+            id="atiga_paii_01"
+            src="@drawable/atiga_paii_01"
+            title="@string/wallpaper_atiga_paii_01"
+            subtitle1="@string/author_paii" />
+
+        <static-wallpaper
+            id="atiga_paii_02"
+            src="@drawable/atiga_paii_02"
+            title="@string/wallpaper_atiga_paii_02"
+            subtitle1="@string/author_paii" />
+
+        <static-wallpaper
+            id="atiga_paii_03"
+            src="@drawable/atiga_paii_03"
+            title="@string/wallpaper_atiga_paii_03"
+            subtitle1="@string/author_paii" />
+
+    </category>
+
     <category id="afterlife" title="@string/category_afterlife" featured="afterlife_paii_02">
 
         <static-wallpaper
